@@ -1,0 +1,15 @@
+1702155802442	geckodriver	INFO	Listening on 127.0.0.1:62820
+1702155805605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bka\\AppData\\Local\\Temp\\rust_mozprofilegXrLfG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702155807400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702155807717	Marionette	INFO	Listening on port 62830
+Read port: 62830
+WebDriver BiDi listening on ws://127.0.0.1:62821
+1702155807979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62821/devtools/browser/2f80bf8a-e81c-4083-9300-7530df28f1d1
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1702155820963	Marionette	INFO	Stopped listening on port 62830
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
